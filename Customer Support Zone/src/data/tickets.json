@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Login page not loading",
+    "description": "Users report a blank screen after entering credentials on the login page.",
+    "customer": "Sarah Mitchell",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-05-20"
+  },
+  {
+    "id": 2,
+    "title": "Payment gateway timeout",
+    "description": "Checkout fails intermittently with a gateway timeout error during peak hours.",
+    "customer": "James Carter",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-05-21"
+  },
+  {
+    "id": 3,
+    "title": "Email notifications delayed",
+    "description": "Order confirmation emails are arriving 2–3 hours late for some customers.",
+    "customer": "Emily Brooks",
+    "priority": "Medium",
+    "status": "Pending",
+    "createdAt": "2026-05-22"
+  },
+  {
+    "id": 4,
+    "title": "Profile photo upload fails",
+    "description": "Image uploads return an error when file size exceeds 2MB even though limit is 5MB.",
+    "customer": "Michael Tan",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-05-22"
+  },
+  {
+    "id": 5,
+    "title": "Mobile menu overlap",
+    "description": "Navigation menu overlaps the hero section on screens smaller than 768px.",
+    "customer": "Lisa Nguyen",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2026-05-23"
+  },
+  {
+    "id": 6,
+    "title": "Invoice PDF formatting issue",
+    "description": "Downloaded invoices show misaligned columns and cut-off footer text.",
+    "customer": "David Ortiz",
+    "priority": "Medium",
+    "status": "Pending",
+    "createdAt": "2026-05-23"
+  },
+  {
+    "id": 7,
+    "title": "Two-factor authentication reset",
+    "description": "Customer locked out after phone change and needs 2FA reset assistance.",
+    "customer": "Anna Kowalski",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-05-24"
+  },
+  {
+    "id": 8,
+    "title": "Search filters not saving",
+    "description": "Saved filter presets disappear after logging out and back in.",
+    "customer": "Robert Kim",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2026-05-24"
+  },
+  {
+    "id": 9,
+    "title": "Subscription renewal reminder",
+    "description": "Customer did not receive renewal reminder email before plan expiration.",
+    "customer": "Jennifer Walsh",
+    "priority": "Medium",
+    "status": "Pending",
+    "createdAt": "2026-05-25"
+  },
+  {
+    "id": 10,
+    "title": "Dashboard analytics mismatch",
+    "description": "Weekly report totals do not match exported CSV data for the same date range.",
+    "customer": "Chris Patel",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-05-25"
+  },
+  {
+    "id": 11,
+    "title": "Dark mode contrast issue",
+    "description": "Secondary button text is hard to read in dark mode on settings page.",
+    "customer": "Maria Gonzalez",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2026-05-26"
+  },
+  {
+    "id": 12,
+    "title": "API rate limit clarification",
+    "description": "Developer needs documentation on current API rate limits for production keys.",
+    "customer": "Tom Henderson",
+    "priority": "Low",
+    "status": "Pending",
+    "createdAt": "2026-05-27"
+  }
+]
